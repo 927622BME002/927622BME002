@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://www.google.com/imgres?q=programming%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=1Dro-CqJY0h0AM&vet=12ahUKEwj6v4zK67CNAxXjRmcHHaX1HeEQM3oECCsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj6v4zK67CNAxXjRmcHHaX1HeEQM3oECCsQAA)" width="200" />
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif]" width="200" />
 </p>
 
 ---
