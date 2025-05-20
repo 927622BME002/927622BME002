@@ -41,9 +41,11 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+---
 
 ---
----
+
+### 🌟 Words That Inspire Me
 
 <p align="center">
   💬 <i>"Success is not final, failure is not fatal: It is the courage to continue that counts."</i><br>
