@@ -52,6 +52,7 @@
   — <b>Winston Churchill</b> 💡
 </p>
 
+---
 
 ### 💻 Languages & Tools
 
