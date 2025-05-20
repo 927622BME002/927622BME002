@@ -15,17 +15,6 @@
 - 💡 Passionate about **clean energy, innovation, and robotics**  
 - 🎯 Currently focused on **placement preparation & patent innovations**
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="<h1 align="center">👋 Hello there, I'm Antony! 🚀</h1>
-<h3 align="center">🌟 Aspiring Mechanical Engineer | 💡 Innovator | 🛠️ Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="600" alt="Programming GIF" />
-</p>
 
 ---
 
@@ -42,7 +31,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/antony-rufues-528b10259">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:antonyrufues@gmail.com" target="_blank">
@@ -54,6 +43,13 @@
 </p>
 
 ---
+---
+
+<p align="center">
+  💬 <i>"Success is not final, failure is not fatal: It is the courage to continue that counts."</i><br>
+  — <b>Winston Churchill</b> 💡
+</p>
+
 
 ### 💻 Languages & Tools
 
